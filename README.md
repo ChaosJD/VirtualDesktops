@@ -3,7 +3,7 @@
 ## Windows
 
 ### Mouse navigation
-**Create or Add a new Desktop:** Got to Task View [Task View]() --> New Desktop ***or*** Add a Desktop  
+**Create or Add a new Desktop:** Got to Task View ![Task View](pics/) --> New Desktop ***or*** Add a Desktop  
 **Swicht between Deskopts:** Go To Task View  
 **Set windows between desktops:** Task View -> Listed Programm --> right click --> Move to ***or***  Drag and Drop to the Desktop  
 **Close A Desktop:** Task View --> Close with the litte x
