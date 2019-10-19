@@ -23,4 +23,4 @@
 ## Tools for both Systems
 **Dexpot**  
 Youtube-Video: [Dexpot-Preview](https://www.youtube.com/watch?v=GTKWb5oaJwg) 
-Sotware: [Dexpot-Software][https://dexpot.de/]
+Sotware: [Dexpot-Software](https://dexpot.de/)
