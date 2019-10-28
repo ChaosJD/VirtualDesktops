@@ -19,8 +19,3 @@
 | Close A Desktop | Windows Key + Ctrl + F4 |
 
 **Hints:** Task View Shows only some Desktops @ one time. No Scrolling functionality but Scrolling beside.
-
-## Tools for Both OS
-**Dexpot**  
-Youtube-Video: [Dexpot-Preview](https://www.youtube.com/watch?v=GTKWb5oaJwg)  
-Sotware: [Dexpot-Software](https://dexpot.de/)
