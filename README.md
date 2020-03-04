@@ -19,3 +19,6 @@
 | Close A Desktop | Windows Key + Ctrl + F4 |
 
 **Hints:** Task View Shows only some Desktops @ one time. No Scrolling functionality but Scrolling beside.
+
+# superkeys
+[cherryKeys](https://www.cherry.de/keys)  
