@@ -25,3 +25,8 @@
 
 # article
 [virtualDesktops](https://4sysops.com/archives/how-to-use-windows-10-virtual-desktops-task-view/#task-view-workflow)  
+
+# hint
+ Zwischen Desktops umschalten
+
+Zu viele parallele Desktops können die Übersicht erschweren. Für die Navigation empfiehlt es sich, die Tasten [Windows] + [STRG] gedrückt zu halten und dann mit den Pfeiltasten (links, rechts) durch die virtuellen Desktops zu blättern. Weitere wichtige Shortcuts: Per [Windows] + [STRG] + [D] legen Sie einen neuen Desktop an, mit [Windows] + [STRG] + [F4] schließen Sie den aktuellen Desktop. Wenn Sie partout nicht mehr wissen, auf welchem Desktop Sie ein bestimmtes Programm geparkt haben, können Sie ganz einfach mit der Maus in der Zeitachse über die Desktops gleiten. Windows 10 blendet dann immer die Fenster ein, die sich auf den Desktops befinden.
